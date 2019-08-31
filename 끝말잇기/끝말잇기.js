@@ -1,6 +1,6 @@
 var 바디 = document.body;
 var 단어 = document.createElement('div');
-단어.textContent = '제로초';
+단어.textContent = '허인행';
 document.body.append(단어);
 var 폼 = document.createElement('form');
 document.body.append(폼);
@@ -31,7 +31,7 @@ function 더하기(숫자1, 숫자2) {
 }
 더하기(3, 5)
 
-// var word = '제로초'
+// var word = '허인행'
 // ​
 // while (true) {
 // 	var answer = prompt(word);
